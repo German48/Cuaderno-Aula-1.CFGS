@@ -1,0 +1,30 @@
+# Ejecutables y archivos binarios grandes
+*.exe
+*.dll
+*.pak
+*.dat
+*.bin
+*.json
+*.asar
+
+# Carpetas de recursos binarios
+locales/
+resources/
+
+# Archivos temporales
+*.log
+*.tmp
+~$*
+
+# Carpetas de desarrollo
+node_modules/
+.vscode/
+.idea/
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Licencias grandes (HTML)
+LICENSES.chromium.html
