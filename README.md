@@ -46,7 +46,7 @@
 
 ### Instalación Rápida
 
-1. **Descargar** la última versión desde [Releases](releases)
+1. **Descargar** la última versión desde [Releases](https://github.com/German48/Cuaderno-Aula-1.CFGS/releases)
 2. **Ejecutar** `Cuaderno de Aula.exe`
 3. ¡Listo! La aplicación está lista para usar
 
